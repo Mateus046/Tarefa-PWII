@@ -1,0 +1,23 @@
+{
+  "name": "prj-js",
+  "version": "1.0.0",
+  "description": "Projeto baseado em app para autonomos",
+  "main": "Projeto para a tarfe PWII com componentes instalados ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Projeto",
+    "PWII",
+    "Autonomos",
+    "Tarefa",
+    "11-09"
+  ],
+  "author": "Mateus Silva dos Santos 2DS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "js": "^0.1.0",
+    "node": "^18.9.0"
+  }
+}
